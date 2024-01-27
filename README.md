@@ -1,10 +1,5 @@
 <h2 align="left">Hi 👋! My name is TAY CHING XIAN and I'm a 1st year CS student</h2>
 
-###
-
-<div align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=taychingxian" alt="taychingxian" /></a>
-</div>
 
 ###
 
